@@ -73,19 +73,11 @@ FAISS · Ollama
 
 ### 🌱 Currently
 
-- Building AI features at InAmigos Foundation
 - Exploring agentic AI and RAG systems
 - Looking for **internship and graduate roles** in software engineering, full-stack and AI/ML
 
 ---
 
-### 📊 GitHub stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayali3050&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayali3050&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
 
 <p align="center"><i>Always happy to connect and collaborate — feel free to reach out!</i></p>
